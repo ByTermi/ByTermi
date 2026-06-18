@@ -53,6 +53,6 @@ Construyo proyectos reales de Machine Learning, agentes autónomos y automatizac
 
 ## 📫 Contacto
 
-[![Email](https://img.shields.io/badge/Email-jaimenovillobenito%40gmail.com-black?style=flat-square&logo=gmail)](mailto:jaimenovillobenito@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jaimenovillobenito%40gmail.com-black?style=flat-square&logo=gmail)](mailto:jaimenovillobenito.job@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-bytermigithub.io-black?style=flat-square&logo=github)](https://ByTermi.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaime%20Novillo-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/jaime-novillo-benito)
